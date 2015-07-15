@@ -14,13 +14,13 @@ A PHP client for authenticating with Yelp using OAuth 1 and consuming the search
 Via Composer
 
 ``` bash
-$ composer require stevenmaguire/yelp-php
+$ composer require paramoredigital/yelp-php
 ```
 or update your `composer.json` file to include:
 
 ```json
   "require": {
-    "stevenmaguire/yelp-php": "~1.2"
+    "paramoredigital/yelp-php": "dev-master"
   }
 ```
 Run `composer update`
